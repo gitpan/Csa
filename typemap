@@ -1,0 +1,4 @@
+TYPEMAP
+Csa::Session	T_PTROBJ
+Csa::Entry	T_PTROBJ
+
